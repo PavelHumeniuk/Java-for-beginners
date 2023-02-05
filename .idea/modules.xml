@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_для_начинающих.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_для_начинающих.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_для_начинающих.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_для_начинающих.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_для_начинающих.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_для_начинающих.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_для_начинающих.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_для_начинающих.util.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Основы/Hello World/Первая программа/Java_для_начинающих.Основы-Hello_World-Первая_программа.iml" filepath="$PROJECT_DIR$/.idea/modules/Основы/Hello World/Первая программа/Java_для_начинающих.Основы-Hello_World-Первая_программа.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Основы/Hello World/Первая программа/Java_для_начинающих.Основы-Hello_World-Первая_программа.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Основы/Hello World/Первая программа/Java_для_начинающих.Основы-Hello_World-Первая_программа.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Основы/Hello World/Первая программа/Java_для_начинающих.Основы-Hello_World-Первая_программа.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Основы/Hello World/Первая программа/Java_для_начинающих.Основы-Hello_World-Первая_программа.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Основы/Hello World/Практика/Java_для_начинающих.Основы-Hello_World-Практика.iml" filepath="$PROJECT_DIR$/.idea/modules/Основы/Hello World/Практика/Java_для_начинающих.Основы-Hello_World-Практика.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Основы/Hello World/Практика/Java_для_начинающих.Основы-Hello_World-Практика.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Основы/Hello World/Практика/Java_для_начинающих.Основы-Hello_World-Практика.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Основы/Hello World/Практика/Java_для_начинающих.Основы-Hello_World-Практика.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Основы/Hello World/Практика/Java_для_начинающих.Основы-Hello_World-Практика.test.iml" />
+    </modules>
+  </component>
+</project>
