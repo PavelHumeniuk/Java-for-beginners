@@ -4,5 +4,3 @@ files:
   visible: true
 - name: test/output.txt
   visible: false
-- name: test/input.txt
-  visible: false
