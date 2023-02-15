@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -15,6 +16,7 @@
             <option value="$PROJECT_DIR$/Основы/Переменные/Первая переменна" />
             <option value="$PROJECT_DIR$/Основы/Переменные/Практика" />
             <option value="$PROJECT_DIR$/Основы/Типы данных/Типы данных" />
+            <option value="$PROJECT_DIR$/Основы/Типы данных/Числа" />
           </set>
         </option>
       </GradleProjectSettings>
