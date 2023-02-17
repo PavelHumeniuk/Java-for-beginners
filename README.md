@@ -1,5 +1,5 @@
 # Java for begginers course roadmap
 
-![image](https://user-images.githubusercontent.com/14217485/218578265-37c18708-59a0-4847-bce5-9846721d6791.png)
+<img src="https://user-images.githubusercontent.com/14217485/219172076-9ee85453-9493-48ec-9ba6-274fc1eac3e0.png">
 
 Contacts:
