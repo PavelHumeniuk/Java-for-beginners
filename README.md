@@ -1,5 +1,5 @@
-# Java for begginers course roadmap
+# Java для начинающих roadmap
 
-<img src="https://user-images.githubusercontent.com/14217485/219172076-9ee85453-9493-48ec-9ba6-274fc1eac3e0.png">
+<img width="870" alt="Снимок экрана 2023-02-17 в 21 44 35" src="https://user-images.githubusercontent.com/14217485/219789233-92298c85-6335-46fe-aace-1ebf6fefdd79.png">
 
-Contacts:
+Контакты:
