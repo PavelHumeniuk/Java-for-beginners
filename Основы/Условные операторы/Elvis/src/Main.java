@@ -12,7 +12,7 @@ public class Main {
          message = "Выход.";
       }
       System.out.println(message);
-      System.out.println("-------");
+      System.out.println("Пример с Elvis: ");
 
       // ... и перепишем:
       // сначала идет значение, если условие верно (true), затем если ложь (false)

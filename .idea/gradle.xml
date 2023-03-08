@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/Основы/Типы данных/Числа" />
             <option value="$PROJECT_DIR$/Основы/Условные операторы/Elvis" />
             <option value="$PROJECT_DIR$/Основы/Условные операторы/If else" />
+            <option value="$PROJECT_DIR$/Основы/Условные операторы/Switch" />
           </set>
         </option>
       </GradleProjectSettings>
